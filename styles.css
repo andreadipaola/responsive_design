@@ -79,4 +79,11 @@
     .header {
       height: 400px;
     }
+    .sign-up {
+      height: 200px;
+      order: 1;
+    }
+    .content {
+      order: 2;
+    }
   }
